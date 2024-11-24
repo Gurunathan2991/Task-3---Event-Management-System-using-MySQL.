@@ -1,4 +1,4 @@
-# Task-3---Event-Management-System-using-MySQL.
+# Task3---Event-Management-System-using-MySQL.
 Objective: To develop the application that allows users to create and manage events, track attendees, and handle event registrations efficiently. The project will include the following tasks:
 ### 1. Database Creation
 Creating a database named "EventsManagement."
